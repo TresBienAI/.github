@@ -3,7 +3,7 @@
 
 # 갈래말래
 
-갈래말래!? 서울? 애매하긴해..   
+갈래말래!? 서울? 애매하긴 해..   
 5분 안에 완성하는 나만의 서울 여행 팸플릿
 
 <img width="891" height="430" alt="Image" src="https://github.com/user-attachments/assets/0a0c0efe-d68b-4104-8690-2aa59ba0c8c3" />
