@@ -1,9 +1,9 @@
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/54938e51-fcf4-45d6-b8fe-0913eaa9a600" />
 
 
-# 갈래말래!?
+# 갈래말래
 
-5분 안에 완성하는 나만의 서울 여행 팸플릿
+갈래말래!? 5분 안에 완성하는 나만의 서울 여행 팸플릿
 
 <img width="891" height="430" alt="Image" src="https://github.com/user-attachments/assets/0a0c0efe-d68b-4104-8690-2aa59ba0c8c3" />
 
