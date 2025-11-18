@@ -2,13 +2,12 @@
 # 갈래말래
 5분 안에 완성하는 나만의 서울 여행 팸플릿
 
-<img align="left" img width="891" height="430" alt="Image" src="https://github.com/user-attachments/assets/0a0c0efe-d68b-4104-8690-2aa59ba0c8c3" />
+<img width="891" height="430" alt="Image" src="https://github.com/user-attachments/assets/0a0c0efe-d68b-4104-8690-2aa59ba0c8c3" />
 
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/cf79c3c6-4a2f-497c-95f3-a12f1bb4b0be" alt="갈래말래 팸플릿 UI" />
 
-/>
-/>
+
 ## 프로젝트 소개
 
 갈래말래는 서울 여행을 고민하거나 계획에 부담을 느끼는 이용자를 위해, 단 5분만에 개인 맞춤형 서울 여행 일정을 생성하고 이를 한 장짜리 여행 팸플릿 형태로 확인·공유할 수 있게 해주는 웹·모바일 기반 AI 서비스입니다.
