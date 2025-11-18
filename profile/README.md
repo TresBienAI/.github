@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/54938e51-fcf4-45d6-b8fe-0913eaa9a600" />
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/2040e910-b6a6-41d6-bf1b-a6bb88a805f3" />
 
 
 # 갈래말래
