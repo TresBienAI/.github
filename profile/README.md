@@ -180,7 +180,7 @@ AI가 기본 코스를 먼저 제안하고, 동행자들이 이를 함께 보면
 "서울을 처음 방문하는 외국인도, 서울이 익숙한 내국인도, 5분 안에 나만의 서울을 누릴 수 있는 AI 여행 서비스"를 구현하는 것이 궁극적인 목표입니다.
 
   
-<img align="right" width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/260d1aa9-c05a-4484-9412-d7d88280859e" />    
+<img align="right" width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/260d1aa9-c05a-4484-9412-d7d88280859e" />    
 # 팀 정보
 
 **팀명**
