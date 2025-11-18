@@ -90,6 +90,9 @@
 - 벡터 DB 기반 임베딩 검색
 - 규칙 기반 동선 최적화
 
+<img width="1449" height="769" alt="Image" src="https://github.com/user-attachments/assets/e622e881-968f-492f-b227-1d6411aed00d" />
+
+
 # 활용 데이터
 
 | 데이터명 | 분야 | 출처 |
